@@ -42,7 +42,7 @@ Supercharge your outreach with automated lead generation, using web scraping and
 # 📁 Project Structure
 
     ├── README.md            # Project overview and setup instructions
-    └── Lead-Generate/       # Application folder
+    └── Lead_generation/       # Application folder
         ├── main.py          # Streamlit main application        
         ├── functions.py     # Scrapers, preprocessing, LLM wrappers    
         └── requirements.txt # Python dependencies
