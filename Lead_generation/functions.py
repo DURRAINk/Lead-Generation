@@ -26,7 +26,7 @@ def link_generator(lst):
   body_lst=[]
   for query in lst:
     results=DDGS().text(query, max_results=1,)
-    time.sleep(3)  # To avoid hitting the API too quickly
+    time.sleep(2)  # To avoid hitting the API too quickly
     link=results[0]['href']
     body = results[0]['body']
     links.append(link)
