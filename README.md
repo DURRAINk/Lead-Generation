@@ -20,8 +20,8 @@ Supercharge your outreach with automated lead generation, using web scraping and
 
 **Clone the repository**
 
-    git clone https://github.com/DURRAINk/Lead-Generatoin.git
-    cd Lead-Generatoin
+    git clone https://github.com/DURRAINk/Lead-Generation.git
+    cd Lead-Generation
 
 **Create & activate a virtual environment**
 
